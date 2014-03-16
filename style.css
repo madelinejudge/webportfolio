@@ -1,0 +1,46 @@
+body
+{
+  font-family:News Gothic MT, Arial, sans-serif;
+  background-color:white;
+  color:black;
+}
+ul
+{
+  list-style-type:none;
+  margin:0px;
+  padding:0px;
+}
+li
+{
+  display:inline;
+}
+a:link,a:visited
+{
+  color:black;
+  background-color:#b8b7b7;
+  text-align:center;
+  padding:8px;
+  text-decoration:none;
+}
+a:hover,a:active
+{
+  background-color:#7A8B8B;
+}
+photo
+{
+  float:left;
+}
+paragraph
+{
+  float:right;
+}
+aside
+{
+  display:block;
+  width:60px;
+}
+footer
+{
+  padding:20px;
+  float:left;
+}
