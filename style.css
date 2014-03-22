@@ -41,17 +41,7 @@
 .leftcolumn {
 	float:left;
 	padding-left:40px;
-}
-.photo {
-	padding:40px 40px 40px 40px;
-}
-.content h2 {
-  font-family:News Gothic MT, Arial, sans-serif;
-  font-size:24px;
-  float:right;
-}
-.content {
-  float:right;
+	padding-top:40px;
 }
 .socialmedia {
   display:inline-block;
@@ -60,4 +50,9 @@
 }
 .socialmedia li {
   list-style: none;
+}
+.content h2 {
+  font-family:News Gothic MT, Arial, sans-serif;
+  font-size:24px;
+  float:right;
 }
