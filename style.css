@@ -38,6 +38,10 @@
 {
   background-color:#7A8B8B;
 }
+.leftcolumn {
+	float:left;
+	padding-left:40px;
+}
 .photo {
 	padding:40px 40px 40px 40px;
 }
