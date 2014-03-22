@@ -39,7 +39,7 @@
   background-color:#7A8B8B;
 }
 .photo {
-	padding:40px 40px 60px 40px;
+	padding:40px 40px 40px 40px;
 }
 .content h2 {
   font-family:News Gothic MT, Arial, sans-serif;
@@ -52,6 +52,7 @@
 .socialmedia {
   display:inline-block;
   list-style: none;
+  float:left;
 }
 .socialmedia li {
   list-style: none;
