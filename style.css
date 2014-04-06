@@ -19,7 +19,7 @@
   width:100%;
   float:right;
   text-align:center;
-  font-size:24px;
+  font-size:12px;
   background-color:#b8b7b7;
   padding-bottom: 15px;
 }
@@ -43,6 +43,7 @@
   	padding-right:30px;
 	padding-top:30px;
 }
+
 .socialmedia {
   display:inline-block;
   list-style: none;
