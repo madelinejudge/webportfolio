@@ -5,6 +5,8 @@
   font-family:News Gothic MT, Arial, sans-serif;
   background-color:white;
   color:black;
+  height: 100%;
+  width: 100%;
 }
 .header {
   font-family:Ralph Walker;
