@@ -2,16 +2,16 @@
   border-style:solid;
   border-color:#74b247;
   border-width:30px;
+  font-family:News Gothic MT, Arial, sans-serif;
   background-color:white;
   color:black;
-}
-* {
-  font-family:News Gothic MT, Arial, sans-serif;
 }
 .header {
   font-family:Ralph Walker;
   font-size:36px;
   padding-left:15px;
+  width: 100%;
+  height: 100%;
 }
 .navbar {
   position:relative;
@@ -23,32 +23,30 @@
   background-color:#b8b7b7;
   padding-bottom: 15px;
 }
-.navbar ul li
-{
+.navbar ul li {
   float:left;
   display:inline-block;
 }
-.navbar ul li a:link,a:visited
-{
+.navbar ul li a:link,a:visited {
   color:black;
   text-align:center;
   padding:10px 20px;
   text-decoration:none;
   float:left;
 }
-.navbar a:hover,a:active
-{
+.navbar a:hover,a:active {
   background-color:#7A8B8B;
 }
 .leftcolumn {
-	  float:left;
-	  padding-left:30px;
+	float:left;
+	padding-left:30px;
   	padding-right:30px;
-	  padding-top:30px;
+	padding-top:30px;
 }
+
 .leftcolumn li {
     list-style:none;
-    padding-top: 30px;
+    padding-top: 47px;
 }
 
 .content {
