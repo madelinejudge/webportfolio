@@ -53,6 +53,7 @@
 }
 .socialmedia li {
   list-style: none;
+  text-align: center;
 }
 .content {
   padding:30px;
