@@ -2,10 +2,13 @@
   border-style:solid;
   border-color:#74b247;
   border-width:30px;
-  font-family:News Gothic MT, Arial, sans-serif;
   background-color:white;
   color:black;
 }
+* {
+font-family:News Gothic MT, Arial, sans-serif;
+}
+
 .header {
   font-family:Ralph Walker;
   font-size:36px;
@@ -42,14 +45,15 @@
 	padding-left:30px;
   	padding-right:30px;
 	padding-top:30px;
+	text-align: center;
 }
-
+.leftcolumn photo {
+	display: inline-block;
+}
 .socialmedia {
   display:inline-block;
   list-style: none;
-  float:left;
   padding:10px;
-  text-align: center;
 }
 .socialmedia li {
   list-style: none;
