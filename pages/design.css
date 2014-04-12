@@ -48,10 +48,10 @@
 	text-align: center;
 	width: 320px;
 }
-.leftcolumn li {
+.leftcolumn ul li {
     list-style:none;
     padding-top: 30px;
-    border: 1px soild gray;
+    border: 1px soild black;
 }
 
 .content {
