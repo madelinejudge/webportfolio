@@ -51,7 +51,7 @@
 .leftcolumn li {
     list-style:none;
     padding-top: 30px;
-    border: 1px;
+    border: 1px soild gray;
 }
 
 .content {
