@@ -48,7 +48,7 @@
 }
 .leftcolumn li {
     list-style:none;
-    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .content {
@@ -57,7 +57,7 @@
 .content li {
 	list-style: none;
 }
-.content li h2 {
+.content ul li h2 {
   font-size:24px;
   padding-top:47px;
 }
