@@ -50,19 +50,16 @@
 	text-align: center;
 	width: 320px;
 }
-.leftcolumn ul li {
+.leftcolumn li {
     list-style:none;
     padding-top: 30px;
 }
 
-.leftcolumn a:hover,a:active
-{
-  background-color:#7A8B8B;
 
 .content {
   padding:30px;
 }
-.content ul li {
+.content li {
 	list-style: none;
 }
 .content li h2 {
