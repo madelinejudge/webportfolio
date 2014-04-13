@@ -50,6 +50,7 @@ font-family:News Gothic MT, Arial, sans-serif;
 }
 .leftcolumn photo {
 	display: inline-block;
+	text-align: center;
 }
 .socialmedia {
   display:inline-block;
