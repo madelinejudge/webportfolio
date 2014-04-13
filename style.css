@@ -46,6 +46,7 @@ font-family:News Gothic MT, Arial, sans-serif;
   	padding-right:30px;
 	padding-top:30px;
 	width: 320px;
+	text-align: center;
 }
 .leftcolumn photo {
 	display: inline-block;
