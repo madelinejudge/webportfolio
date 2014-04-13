@@ -53,13 +53,13 @@
 
 .content {
   	padding:30px;
-  	padding-top: 47px;
 }
 .content li {
 	list-style: none;
 }
 .content li h2 {
   font-size:24px;
+  padding-top: 47px;
 }
 .content p {
 	padding-bottom: 30px;
