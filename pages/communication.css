@@ -54,6 +54,9 @@
 .content {
   padding:30px;
 }
+.content li {
+	list-style: none;
+}
 .content h2 {
   font-size:24px;
   padding-top:47px;
