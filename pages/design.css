@@ -44,29 +44,33 @@
 {
   	background-color:#7A8B8B;
 }
-.leftcolumn {
+.item1 {
 	float:left;
 	padding:30px;
 	text-align: center;
-	width: 320px;
 }
-.leftcolumn li {
+.item1 li {
     list-style:none;
     padding-bottom: 30px;
+    display: inline-block;
+}
+.item1 li h2 {
+	font-size:24px;
+	padding-top: 47px;
 }
 
-.content {
+.item2 {
+	float:left;
   	padding:30px;
+  	text-align: center;
 }
-.content li {
+.item2 li {
 	list-style: none;
+	display: inline-block;
 }
-.content li h2 {
+.item2 li h2 {
   font-size:24px;
   padding-top: 47px;
-}
-.content p {
-	padding-bottom: 10px;
 }
 
 .footer {
