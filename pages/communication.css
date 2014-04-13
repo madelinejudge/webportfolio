@@ -54,14 +54,7 @@
     list-style:none;
     padding-top: 30px;
 }
-.leftcolumn ul li a:link,a:visited
-{
-  color:black;
-  text-align:center;
-  padding:10px 20px;
-  text-decoration:none;
-  float:left;
-}
+
 .leftcolumn a:hover,a:active
 {
   background-color:#7A8B8B;
@@ -69,7 +62,7 @@
 .content {
   padding:30px;
 }
-.content li {
+.content ul li {
 	list-style: none;
 }
 .content li h2 {
