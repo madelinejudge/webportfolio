@@ -54,15 +54,7 @@ font-family:News Gothic MT, Arial, sans-serif;
 .leftcolumn photo {
 	display: inline-block;
 }
-
-.content {
-  padding:30px;
-}
-.content h2 {
-  font-size:24px;
-  padding-top:47px;
-}
-.content socialmedia {
+.socialmedia {
   display:inline-block;
   list-style: none;
   padding-right: 35px;
@@ -71,6 +63,13 @@ font-family:News Gothic MT, Arial, sans-serif;
   list-style: none;
 }
 
+.content {
+  padding:30px;
+}
+.content h2 {
+  font-size:24px;
+  padding-top:47px;
+}
 .footer {
   padding:5px;
   clear: both;
