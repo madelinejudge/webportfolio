@@ -15,8 +15,6 @@ font-family:News Gothic MT, Arial, sans-serif;
   text-align: left;
 }
 .header img {
-	min-height: 100%;
-	min-width: 960px;
 	width: 100%;
 	height: auto;
 }
