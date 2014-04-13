@@ -47,7 +47,7 @@
 .item1 {
 	float:left;
 	padding:30px;
-	text-align: center;
+	text-align: left;
 }
 .item1 li {
     list-style:none;
@@ -56,13 +56,12 @@
 }
 .item1 li h2 {
 	font-size:24px;
-	padding-top: 47px;
 }
 
 .item2 {
 	float:left;
   	padding:30px;
-  	text-align: center;
+  	text-align: left;
 }
 .item2 li {
 	list-style: none;
@@ -70,7 +69,6 @@
 }
 .item2 li h2 {
   font-size:24px;
-  padding-top: 47px;
 }
 
 .footer {
