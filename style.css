@@ -12,11 +12,13 @@ font-family:News Gothic MT, Arial, sans-serif;
 .header {
   font-family:Ralph Walker;
   font-size: 36px;
+  position:relative;
 }
 .navbar {
   position:relative;
   list-style:none;
   width:100%;
+  float:right;
   text-align:center;
   font-size:18px;
   background-color:#b8b7b7;
