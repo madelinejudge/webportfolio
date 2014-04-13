@@ -50,12 +50,11 @@ font-family:News Gothic MT, Arial, sans-serif;
 }
 .leftcolumn photo {
 	display: inline-block;
-	text-align: center;
 }
 .socialmedia {
   display:inline-block;
   list-style: none;
-  padding:10px 10px 12px 0px;
+  padding:10px;
   text-align: center;
 }
 .socialmedia li {
