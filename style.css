@@ -55,10 +55,10 @@ font-family:News Gothic MT, Arial, sans-serif;
   display:inline-block;
   list-style: none;
   padding:10px 10px 12px 0px;
+  text-align: center;
 }
 .socialmedia li {
   list-style: none;
-  text-align: center;
 }
 .content {
   padding:30px;
