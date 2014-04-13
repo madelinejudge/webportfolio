@@ -12,8 +12,7 @@ font-family:News Gothic MT, Arial, sans-serif;
 .header {
   font-family:Ralph Walker;
   font-size: 36px;
-  width: 100%;
-  height: 100%;
+  position:relative;
 }
 .navbar {
   position:relative;
@@ -23,6 +22,7 @@ font-family:News Gothic MT, Arial, sans-serif;
   text-align:center;
   font-size:18px;
   background-color:#b8b7b7;
+  padding-bottom: 15px;
 }
 .navbar ul li {
   float:left;
