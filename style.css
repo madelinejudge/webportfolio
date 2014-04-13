@@ -13,7 +13,12 @@ font-family:News Gothic MT, Arial, sans-serif;
   font-family:Ralph Walker;
   font-size: 36px;
   text-align: left;
-  width: auto;
+}
+.header #img {
+	min-height: 100%;
+	min-width: 1000px;
+	width: 100%;
+	height: auto;
 }
 
 .navbar {
