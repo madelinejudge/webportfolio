@@ -54,10 +54,9 @@
     list-style:none;
 }
 .leftcolumn #link {
-	background-color: #e3e3e3;
+	outline: #e3e3e3 solid 4px;
 	margin: 0px;
 	padding: 10px;
-	border-radius: 4px;
 }
 
 .content {
