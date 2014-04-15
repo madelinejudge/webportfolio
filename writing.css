@@ -49,6 +49,7 @@
 }
 .leftcolumn li {
     list-style:none;
+    padding-bottom: 20px;
 }
 .leftcolumn #link a:hover,a:active {
   background-color:#7A8B8B;
