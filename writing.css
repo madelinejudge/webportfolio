@@ -54,12 +54,14 @@
     list-style:none;
 }
 #link {
-	background-color: #e3e3e3;
+	outline: gray solid 4px;
 	margin: 0px;
 	padding: 10px;
 	border-radius: 4px;
 }
-
+a:hover {
+	color:#33FF99;
+	}
 .content {
   padding:30px;
   padding-top: 47px;
