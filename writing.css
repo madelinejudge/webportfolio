@@ -53,8 +53,8 @@
 .leftcolumn li {
     list-style:none;
     padding-top: 30px;
-    padding-bottom: 30px;
     border: 1px solid gray;
+    padding-bottom: 30px;
 }
 
 .content {
