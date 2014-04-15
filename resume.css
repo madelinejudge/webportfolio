@@ -48,8 +48,14 @@ font-family:News Gothic MT, Arial, sans-serif;
 	text-align: center;
 	width: 320px;
 }
-.leftcolumn photo {
+.leftcolumn #link {
 	display: inline-block;
+}
+.leftcolumn #link a:hover,a:active {
+  background-color:#7A8B8B;
+}
+.leftcolumn #link img:hover,img:active{
+  background-color:#7A8B8B;
 }
 
 .content {
