@@ -53,7 +53,7 @@
 .leftcolumn li {
     list-style:none;
 }
-#link {
+.leftcolumn ul li #link {
 	outline: gray solid 4px;
 	margin: 0px;
 	padding: 10px;
