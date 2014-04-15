@@ -53,10 +53,11 @@
 .leftcolumn li {
     list-style:none;
 }
-.leftcolumn #link {
-	outline: #e3e3e3 solid 4px;
+#link {
+	background-color: #e3e3e3;
 	margin: 0px;
 	padding: 10px;
+	border-radius: 4px;
 }
 
 .content {
