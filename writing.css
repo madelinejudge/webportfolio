@@ -54,9 +54,7 @@
     list-style:none;
     padding-top: 30px;
     padding-bottom: 30px;
-}
-.leftcolumn ul li a {
-	border: 1px solid gray;
+    border: 1px solid gray;
 	border-radius: 4px;
 }
 
