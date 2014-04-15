@@ -52,10 +52,9 @@
 }
 .leftcolumn li {
     list-style:none;
-    padding-top: 30px;
-    padding-bottom: 30px;
 }
 .leftcolumn #link {
+	padding:10px;
 	border: 1px solid gray;
 	border-radius: 4px;
 }
