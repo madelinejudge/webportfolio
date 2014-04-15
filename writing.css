@@ -46,15 +46,17 @@
 }
 .leftcolumn {
 	float:left;
-	padding:10px;
+	padding:30px;
 	text-align: center;
 	width: 320px;
 }
 .leftcolumn li {
     list-style:none;
     padding-top: 30px;
-    border: 1px solid gray;
     padding-bottom: 30px;
+}
+.leftcolumn ul li a {
+	border: 1px solid gray;
 }
 
 .content {
