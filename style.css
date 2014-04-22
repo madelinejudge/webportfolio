@@ -57,9 +57,8 @@ font-family:News Gothic MT, Arial, sans-serif;
 	display: inline-block;
 }
 .socialmedia {
-  display:inline-block;
+  display: inline;
   list-style: none;
-  padding-right: 35px;
 }
 .socialmedia li {
   list-style: none;
