@@ -28,16 +28,17 @@ font-family:News Gothic MT, Arial, sans-serif;
   font-size:18px;
   background-color:#b8b7b7;
   padding-bottom: 15px;
-  margin-top: -15px;
+  margin-top: -20px;
 }
 .navbar ul li {
   float: center;
   display:inline-block;
+  
 }
 .navbar ul li a:link,a:visited {
   color:black;
   text-align:center;
-  padding:10px 20px;
+  padding:10px 30px;
   text-decoration:none;
 }
 .navbar a:hover,a:active {
