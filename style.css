@@ -33,7 +33,8 @@ font-family:News Gothic MT, Arial, sans-serif;
 .navbar ul li {
   float: center;
   display:inline-block;
-  padding-left: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 .navbar ul li a:link,a:visited {
   color:black;
